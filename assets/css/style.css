@@ -31,3 +31,19 @@
  .quiz-runtime:not(:empty){padding:0!important;border:0!important;background:#fff!important}.quiz-finish{padding:0 0 10mm!important}.quiz-review-item{break-inside:avoid!important;background:#fff!important;color:#111!important}
  a{color:#111!important;text-decoration:none!important}a[href]:after{content:none!important}
 }
+
+
+/* SimDron Docs · Figuras verificadas Astra v2 · 29 octubre 2026 */
+.figure-gallery{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));align-items:start;gap:16px;margin:18px 0 22px}
+.figure-card{margin:0;min-width:0;background:var(--panel);border:1px solid var(--line);border-radius:8px;padding:11px}
+.figure-card.feature-wide{grid-column:1/-1}
+.figure-original{min-width:0;display:flex;justify-content:center;align-items:center;max-width:100%;cursor:zoom-in;border-radius:5px;overflow:hidden;background:#fff}
+.figure-original img{display:block;width:auto;height:auto;max-width:100%;max-height:720px;object-fit:contain}
+.figure-card figcaption{display:flex;flex-direction:column;gap:4px;margin-top:9px;color:var(--muted);font-size:12px;line-height:1.45}
+.figure-card figcaption strong{color:var(--text);font-weight:650}
+.figure-context{font-size:11px}
+.previous-figure{font-size:12px;color:var(--muted);padding:10px 0;margin:0 0 16px}
+.previous-figure summary{cursor:pointer;list-style:revert}
+.previous-figure .imagepanel{margin:10px 0 0}
+@media(max-width:750px){.figure-gallery{grid-template-columns:1fr}.figure-card.feature-wide{grid-column:auto}.figure-original img{max-height:540px}}
+@media print{.previous-figure{display:none!important}.figure-gallery{grid-template-columns:1fr 1fr;gap:6mm}.figure-card{background:#fff!important;border:1px solid #ddd!important;break-inside:avoid;page-break-inside:avoid}.figure-original{background:#fff!important}.figure-original img{max-height:120mm!important;box-shadow:none!important}.figure-card figcaption,.figure-card figcaption strong{color:#111!important}}

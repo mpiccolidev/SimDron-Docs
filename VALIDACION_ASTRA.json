@@ -1,0 +1,14 @@
+{
+  "fecha": "2026-10-29",
+  "figuras": 426,
+  "paginas_con_figuras": 176,
+  "paginas_revisadas": 194,
+  "nombres_unicos": true,
+  "archivos_png": 426,
+  "comparacion_pixeles_visibles": "correcta",
+  "errores": [],
+  "figuras_con_exclusiones_transparentes": 6,
+  "extracciones_pdf": 1,
+  "qa_visual": "Todas las figuras revisadas en mosaicos; segunda revisión de 115 figuras ajustadas y verificación individual del gráfico MGRS.",
+  "peso_png_bytes": 111700552
+}
