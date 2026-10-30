@@ -1,0 +1,529 @@
+{
+  "source": "MissionControl_recortes / inventario_figuras.csv (Astra 30/10/2026)",
+  "figures": 178,
+  "pages_with_new_figures": 57,
+  "chapters": 32,
+  "updated_html": 32,
+  "old_figure_placeholders_replaced": 56,
+  "source_html": "SimDron Docs v4 con sobreescritura v6 para 23 capítulos",
+  "v4_loader_removed": true,
+  "verified_paths": 178,
+  "note": "Actualización de recursos gráficos solamente. Las imágenes PNG se copian sin cambios desde la carpeta local de Astra.",
+  "pages_without_new_figures": [
+    1,
+    59,
+    60
+  ],
+  "unmodified_html": [],
+  "changes": [
+    {
+      "file": "mission-control/ambiente.html",
+      "pages": [
+        [
+          "32",
+          3,
+          1
+        ]
+      ],
+      "size": 7696,
+      "removed_old_images": 1
+    },
+    {
+      "file": "mission-control/aula.html",
+      "pages": [
+        [
+          "12",
+          1,
+          1
+        ]
+      ],
+      "size": 7646,
+      "removed_old_images": 1
+    },
+    {
+      "file": "mission-control/auto-ai.html",
+      "pages": [
+        [
+          "39",
+          4,
+          1
+        ]
+      ],
+      "size": 8406,
+      "removed_old_images": 1
+    },
+    {
+      "file": "mission-control/barra-superior.html",
+      "pages": [
+        [
+          "8",
+          2,
+          1
+        ]
+      ],
+      "size": 7173,
+      "removed_old_images": 1
+    },
+    {
+      "file": "mission-control/c2.html",
+      "pages": [
+        [
+          "54",
+          1,
+          1
+        ],
+        [
+          "55",
+          2,
+          1
+        ],
+        [
+          "56",
+          2,
+          1
+        ]
+      ],
+      "size": 11871,
+      "removed_old_images": 3
+    },
+    {
+      "file": "mission-control/calcos.html",
+      "pages": [
+        [
+          "18",
+          3,
+          1
+        ]
+      ],
+      "size": 7321,
+      "removed_old_images": 1
+    },
+    {
+      "file": "mission-control/cartografia.html",
+      "pages": [
+        [
+          "13",
+          2,
+          1
+        ],
+        [
+          "14",
+          2,
+          1
+        ]
+      ],
+      "size": 9236,
+      "removed_old_images": 2
+    },
+    {
+      "file": "mission-control/catalogo-contactos.html",
+      "pages": [
+        [
+          "21",
+          3,
+          1
+        ],
+        [
+          "22",
+          3,
+          1
+        ],
+        [
+          "23",
+          3,
+          1
+        ],
+        [
+          "24",
+          5,
+          1
+        ],
+        [
+          "25",
+          7,
+          1
+        ],
+        [
+          "26",
+          3,
+          1
+        ],
+        [
+          "27",
+          3,
+          1
+        ],
+        [
+          "28",
+          3,
+          1
+        ],
+        [
+          "29",
+          3,
+          1
+        ]
+      ],
+      "size": 27120,
+      "removed_old_images": 9
+    },
+    {
+      "file": "mission-control/clases.html",
+      "pages": [
+        [
+          "31",
+          1,
+          1
+        ]
+      ],
+      "size": 6798,
+      "removed_old_images": 1
+    },
+    {
+      "file": "mission-control/config-mapas.html",
+      "pages": [
+        [
+          "47",
+          4,
+          1
+        ],
+        [
+          "48",
+          2,
+          1
+        ],
+        [
+          "49",
+          2,
+          1
+        ],
+        [
+          "50",
+          6,
+          1
+        ]
+      ],
+      "size": 15275,
+      "removed_old_images": 4
+    },
+    {
+      "file": "mission-control/contactos.html",
+      "pages": [
+        [
+          "19",
+          3,
+          1
+        ],
+        [
+          "20",
+          3,
+          1
+        ]
+      ],
+      "size": 11028,
+      "removed_old_images": 2
+    },
+    {
+      "file": "mission-control/dispositivos.html",
+      "pages": [
+        [
+          "43",
+          1,
+          1
+        ]
+      ],
+      "size": 6577,
+      "removed_old_images": 1
+    },
+    {
+      "file": "mission-control/dronlab.html",
+      "pages": [
+        [
+          "38",
+          4,
+          1
+        ]
+      ],
+      "size": 7961,
+      "removed_old_images": 1
+    },
+    {
+      "file": "mission-control/escenarios.html",
+      "pages": [
+        [
+          "30",
+          5,
+          1
+        ]
+      ],
+      "size": 8437,
+      "removed_old_images": 1
+    },
+    {
+      "file": "mission-control/expo.html",
+      "pages": [
+        [
+          "53",
+          3,
+          1
+        ]
+      ],
+      "size": 7042,
+      "removed_old_images": 1
+    },
+    {
+      "file": "mission-control/fx.html",
+      "pages": [
+        [
+          "36",
+          2,
+          1
+        ],
+        [
+          "37",
+          24,
+          1
+        ]
+      ],
+      "size": 18839,
+      "removed_old_images": 2
+    },
+    {
+      "file": "mission-control/input-upgrade.html",
+      "pages": [
+        [
+          "45",
+          1,
+          1
+        ],
+        [
+          "46",
+          2,
+          1
+        ]
+      ],
+      "size": 7621,
+      "removed_old_images": 2
+    },
+    {
+      "file": "mission-control/instalacion.html",
+      "pages": [
+        [
+          "6",
+          2,
+          1
+        ]
+      ],
+      "size": 7344,
+      "removed_old_images": 1
+    },
+    {
+      "file": "mission-control/instructor.html",
+      "pages": [
+        [
+          "40",
+          3,
+          1
+        ],
+        [
+          "41",
+          1,
+          1
+        ]
+      ],
+      "size": 9272,
+      "removed_old_images": 2
+    },
+    {
+      "file": "mission-control/introduccion.html",
+      "pages": [
+        [
+          "2",
+          1,
+          1
+        ],
+        [
+          "3",
+          1,
+          1
+        ]
+      ],
+      "size": 8262,
+      "removed_old_images": 2
+    },
+    {
+      "file": "mission-control/mapa-central.html",
+      "pages": [
+        [
+          "10",
+          1,
+          1
+        ]
+      ],
+      "size": 6678,
+      "removed_old_images": 1
+    },
+    {
+      "file": "mission-control/mensajes.html",
+      "pages": [
+        [
+          "42",
+          2,
+          1
+        ]
+      ],
+      "size": 6702,
+      "removed_old_images": 1
+    },
+    {
+      "file": "mission-control/misiones.html",
+      "pages": [
+        [
+          "51",
+          4,
+          1
+        ],
+        [
+          "52",
+          2,
+          0
+        ]
+      ],
+      "size": 9166,
+      "removed_old_images": 1
+    },
+    {
+      "file": "mission-control/opfor-ew.html",
+      "pages": [
+        [
+          "33",
+          8,
+          1
+        ],
+        [
+          "34",
+          2,
+          1
+        ],
+        [
+          "35",
+          3,
+          1
+        ]
+      ],
+      "size": 14524,
+      "removed_old_images": 3
+    },
+    {
+      "file": "mission-control/panel-derecho.html",
+      "pages": [
+        [
+          "11",
+          3,
+          1
+        ]
+      ],
+      "size": 7606,
+      "removed_old_images": 1
+    },
+    {
+      "file": "mission-control/panel-izquierdo.html",
+      "pages": [
+        [
+          "9",
+          2,
+          1
+        ]
+      ],
+      "size": 8024,
+      "removed_old_images": 1
+    },
+    {
+      "file": "mission-control/qa-aula.html",
+      "pages": [
+        [
+          "44",
+          3,
+          1
+        ]
+      ],
+      "size": 7642,
+      "removed_old_images": 1
+    },
+    {
+      "file": "mission-control/tablet.html",
+      "pages": [
+        [
+          "58",
+          3,
+          1
+        ]
+      ],
+      "size": 8830,
+      "removed_old_images": 1
+    },
+    {
+      "file": "mission-control/tactico.html",
+      "pages": [
+        [
+          "15",
+          5,
+          1
+        ],
+        [
+          "16",
+          4,
+          1
+        ],
+        [
+          "17",
+          4,
+          1
+        ]
+      ],
+      "size": 15015,
+      "removed_old_images": 3
+    },
+    {
+      "file": "mission-control/topologia.html",
+      "pages": [
+        [
+          "4",
+          1,
+          1
+        ],
+        [
+          "5",
+          1,
+          1
+        ]
+      ],
+      "size": 8347,
+      "removed_old_images": 2
+    },
+    {
+      "file": "mission-control/vfx-c2.html",
+      "pages": [
+        [
+          "57",
+          3,
+          1
+        ]
+      ],
+      "size": 7001,
+      "removed_old_images": 1
+    },
+    {
+      "file": "mission-control/vista-general.html",
+      "pages": [
+        [
+          "7",
+          1,
+          1
+        ]
+      ],
+      "size": 6632,
+      "removed_old_images": 1
+    }
+  ]
+}

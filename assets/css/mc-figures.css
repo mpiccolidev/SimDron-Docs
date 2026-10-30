@@ -1,0 +1,12 @@
+/* SimDron Docs / Mission Control — figuras de Astra, edición 30 Oct 2026
+ * Sólo afecta a los recortes MC de este paquete, no al sitio general. */
+.mc-figure-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,270px),1fr));gap:14px;align-items:start;margin:16px 0 24px}
+.mc-figure-grid .mc-figure{margin:0;min-width:0;padding:11px}
+.mc-figure-grid .mc-figure.mc-wide{grid-column:1/-1}
+.mc-figure-grid .mc-figure .figure-ext{max-height:none;min-height:0;overflow:visible;padding:2px 0}
+.mc-figure-grid .mc-figure img{max-width:100%;width:auto;height:auto;max-height:640px;object-fit:contain;background:#fff;box-shadow:none}
+.mc-figure-grid .mc-figure figcaption{font-size:12px;line-height:1.4;margin:9px 1px 0}
+.mc-figure-grid.mc-single{grid-template-columns:1fr}
+.mc-figure-grid.mc-single .mc-figure{grid-column:1/-1}
+@media(max-width:640px){.mc-figure-grid{grid-template-columns:1fr}.mc-figure-grid .mc-figure img{max-height:520px}}
+@media print{.mc-figure-grid{display:block}.mc-figure-grid .mc-figure{break-inside:avoid;margin:10px 0}.mc-figure-grid .mc-figure img{max-height:190mm}}
