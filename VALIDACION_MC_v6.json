@@ -1,0 +1,11 @@
+{
+  "html_modificados": 23,
+  "reemplazos_de_rutas": 68,
+  "figuras_unicas_referenciadas": 34,
+  "figuras_referenciadas_presentes_en_v2": 34,
+  "faltantes": [],
+  "referencias_a_pages_inconsistentes": [],
+  "resolver_v4_desactivado": true,
+  "archivos_requeridos": 24,
+  "nota": "La presencia y extension real de los archivos en GitHub no se pudo verificar; en capturas Windows oculta la extension"
+}
